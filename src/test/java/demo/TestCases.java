@@ -110,7 +110,7 @@ public class TestCases extends ExcelDataProvider { // Lets us read the data
                 System.out.println("End of Test case - 4");
 
         }
-
+        // end of test cases
         /*
          * Do not change the provided methods unless necessary, they will help in
          * automation and assessment
