@@ -5,7 +5,7 @@ A robust, automated end-to-end (E2E) testing suite for YouTube's web platform. T
 ## Tech Stack & Skills Used
 * **Automation Framework** : Selenium WebDriver (Java/Python)
 * **Testing Framework** : TestNG
-* **Locator Strategy** : Dynamic XPath & CSS Selectors
+* **Locator Strategy** : Dynamic XPath
 * **Concepts Applied** : Soft Asserts, Explicit/Implicit Waits, JavaScript Executor (for horizontal scrolling), Data-Driven Search
 
 ---
